@@ -6,7 +6,7 @@ This is a Youtube Clone.
 ## Features:
 - Users can view videos, channels and search for videos and channels that they like.
 
-## [Deployed Link]()
+## [Deployed Link](https://saurabh-youtube-clone.netlify.app/)
 ## Technologies Used:
 - Reactjs for the frontend
 - Material UI to provide styling to elements
